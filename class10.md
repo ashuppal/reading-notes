@@ -53,4 +53,4 @@ Debugging means to run your code step by step in a debugging tool like Visual St
 
 **Things I want to know more about
 
-Detailed examples of a call stack works.
+Detailed examples of how a call stack works.
